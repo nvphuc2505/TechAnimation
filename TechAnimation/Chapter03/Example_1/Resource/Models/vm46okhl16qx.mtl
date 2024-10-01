@@ -1,0 +1,35 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.0)
+
+newmtl PDX07_-_Default
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ns 3.199999809265137
+illum 2
+map_Kd body.jpg
+
+newmtl PDX10_-_Default
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ns 3.199999809265137
+illum 2
+map_Kd face.jpg
+
+newmtl PDX08_-_Default
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ns 3.199999809265137
+illum 2
+map_Kd helmet.jpg
+
+newmtl PDX09_-_Default
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ns 3.199999809265137
+illum 2
+map_Kd pulserifle.jpg
+
